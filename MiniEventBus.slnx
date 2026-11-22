@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/MiniEventBus.Core/MiniEventBus.Core.csproj" />
+  <Project Path="src/MiniEventBus.Demo/MiniEventBus.Demo.csproj" />
+  <Project Path="tests/MiniEventBus.Tests/MiniEventBus.Tests.csproj" />
+</Solution>
